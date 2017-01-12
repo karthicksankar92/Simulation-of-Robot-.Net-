@@ -1,0 +1,20 @@
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Servant\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Servant\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Servant\obj\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Servant\obj\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Servant\obj\Debug\Servant.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson\Servant\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson\Servant\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson\Servant\obj\Debug\Servant.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson\Servant\obj\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson\Servant\obj\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson-huntsville\Servant\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson-huntsville\Servant\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson-huntsville\Servant\obj\Debug\Servant.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson-huntsville\Servant\obj\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\C# Remoting from Richard Watson-huntsville\Servant\obj\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\huntsville-Houston\Servant\obj\Debug\Servant.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\huntsville-Houston\Servant\obj\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\huntsville-Houston\Servant\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\huntsville-Houston\Servant\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\huntsville-Houston\Servant\obj\Debug\Servant.pdb

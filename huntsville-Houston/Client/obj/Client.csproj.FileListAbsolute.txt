@@ -1,0 +1,2 @@
+K:\Courses\CS553\DotNet\Robot Stuff\C# Remoting from Richard Watson\Client\obj\Debug\Client.exe
+K:\Courses\CS553\DotNet\Robot Stuff\C# Remoting from Richard Watson\Client\obj\Debug\Client.pdb

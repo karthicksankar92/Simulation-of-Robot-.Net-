@@ -1,0 +1,21 @@
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\obj\Debug\Client.exe
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\obj\Debug\Client.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\bin\Debug\Client.exe
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\bin\Debug\Client.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\F.  dot NET remoting\dotNET remoting examples\additional DotNet related examples\Robot Stuff\C# Remoting from Richard Watson\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\obj\Debug\Client.exe
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\obj\Debug\Client.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\bin\Debug\Client.exe
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\bin\Debug\Client.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\C# Remoting from Richard Watson-mars\Client\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\obj\Debug\Client.exe
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\obj\Debug\Client.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\bin\Debug\Client.exe
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\bin\Debug\Client.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\bin\Debug\Servant.dll
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\bin\Debug\Servant.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to marslanders\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

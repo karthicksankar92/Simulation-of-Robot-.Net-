@@ -1,0 +1,15 @@
+c:\users\somu\documents\visual studio 2010\Projects\Robo Assembly\Robo Assembly\bin\Debug\Robo Assembly.dll
+c:\users\somu\documents\visual studio 2010\Projects\Robo Assembly\Robo Assembly\bin\Debug\Robo Assembly.pdb
+c:\users\somu\documents\visual studio 2010\Projects\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.dll
+c:\users\somu\documents\visual studio 2010\Projects\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.pdb
+C:\Users\somu\documents\visual studio 2010\Projects\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.csprojResolveAssemblyReference.cache
+C:\Users\karthick\Downloads\dot_net-2014-11-03\dot net\Robo Assembly\Robo Assembly\bin\Debug\Robo Assembly.dll
+C:\Users\karthick\Downloads\dot_net-2014-11-03\dot net\Robo Assembly\Robo Assembly\bin\Debug\Robo Assembly.pdb
+C:\Users\karthick\Downloads\dot_net-2014-11-03\dot net\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.csprojResolveAssemblyReference.cache
+C:\Users\karthick\Downloads\dot_net-2014-11-03\dot net\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.dll
+C:\Users\karthick\Downloads\dot_net-2014-11-03\dot net\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to huntsville\dot net\Robo Assembly\Robo Assembly\bin\Debug\Robo Assembly.dll
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to huntsville\dot net\Robo Assembly\Robo Assembly\bin\Debug\Robo Assembly.pdb
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to huntsville\dot net\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.csprojResolveAssemblyReference.cache
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to huntsville\dot net\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.dll
+D:\Grad stuff\cilent server architecture\project\.net remoting\Mine\houston to huntsville\dot net\Robo Assembly\Robo Assembly\obj\Debug\Robo Assembly.pdb
